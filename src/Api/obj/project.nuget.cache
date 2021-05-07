@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ASkaa9MbuzbuioEZYc7sv7mIxiZ8bfvI1GwbuJ9pc05+pzh2T4wQ0gEwazu6K4BXCvgqYoJcL0rXs2NZiiJjdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quynh Trang Mac\\source\\repos\\ABE\\12 - OAuth 2.0, IdentityServer and OpenID Connect\\tutorial_identityserver\\src\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

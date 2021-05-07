@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WeJpa6t7ADLtJvRYo6xMq8IC/Hwbkt37We1UHZhKiIH1yy5yP16DBq5hztdZIu5ugfdvkrWU63BpxyatGl8aug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quynh Trang Mac\\source\\repos\\ABE\\12 - OAuth 2.0, IdentityServer and OpenID Connect\\tutorial_identityserver\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\identitymodel\\5.1.0\\identitymodel.5.1.0.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
